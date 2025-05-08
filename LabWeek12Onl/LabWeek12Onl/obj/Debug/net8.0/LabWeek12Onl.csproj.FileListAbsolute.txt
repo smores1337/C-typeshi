@@ -1,0 +1,14 @@
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\bin\Debug\net8.0\LabWeek12Onl.exe
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\bin\Debug\net8.0\LabWeek12Onl.deps.json
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\bin\Debug\net8.0\LabWeek12Onl.runtimeconfig.json
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\bin\Debug\net8.0\LabWeek12Onl.dll
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\bin\Debug\net8.0\LabWeek12Onl.pdb
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\LabWeek12Onl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\LabWeek12Onl.AssemblyInfoInputs.cache
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\LabWeek12Onl.AssemblyInfo.cs
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\LabWeek12Onl.csproj.CoreCompileInputs.cache
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\LabWeek12Onl.dll
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\refint\LabWeek12Onl.dll
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\LabWeek12Onl.pdb
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\LabWeek12Onl.genruntimeconfig.cache
+C:\Users\farin\source\repos\LabWeek12Onl\LabWeek12Onl\obj\Debug\net8.0\ref\LabWeek12Onl.dll

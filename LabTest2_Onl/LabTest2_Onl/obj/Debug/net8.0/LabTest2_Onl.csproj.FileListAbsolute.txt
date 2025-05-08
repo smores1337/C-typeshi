@@ -1,0 +1,14 @@
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\bin\Debug\net8.0\LabTest2_Onl.exe
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\bin\Debug\net8.0\LabTest2_Onl.deps.json
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\bin\Debug\net8.0\LabTest2_Onl.runtimeconfig.json
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\bin\Debug\net8.0\LabTest2_Onl.dll
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\bin\Debug\net8.0\LabTest2_Onl.pdb
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\LabTest2_Onl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\LabTest2_Onl.AssemblyInfoInputs.cache
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\LabTest2_Onl.AssemblyInfo.cs
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\LabTest2_Onl.csproj.CoreCompileInputs.cache
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\LabTest2_Onl.dll
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\refint\LabTest2_Onl.dll
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\LabTest2_Onl.pdb
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\LabTest2_Onl.genruntimeconfig.cache
+C:\Users\farin\source\repos\LabTest2_Onl\LabTest2_Onl\obj\Debug\net8.0\ref\LabTest2_Onl.dll
